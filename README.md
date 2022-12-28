@@ -5,3 +5,8 @@ Trevor Volpe's Data Science Portfolio
 * Creates a Naive Bayes sentiment analysis model (and other models) to help Amazon vendors better understand the granularity of reviews. 
 * Manually labeled and pre-processed over 4,000 records to train the initial model, lowercasing, removing punctuation, removing stopwords, and stemming words. 
 * Allowed for unigrams, bigrams, and trigrams and then analyzed feature importance using a logistic regression.
+
+# [Project 2: Restaurant Discounting Binary Outcome (R)](https://github.com/tvolps/DiscountingProjectVolpe-R-)
+* Uses roughly 1,000 results from a randomly generated survey to find the probability that an individual would go to a restaurant
+* Uses a subset of the data to determine what the probability is someone would change their mind from no to yes given a random discount
+* Creates a logistic regression, KNN, naive bayes, decision tree, and neural network
