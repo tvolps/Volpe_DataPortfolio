@@ -11,5 +11,5 @@ Trevor Volpe's Data Science Portfolio
 * Uses a subset of the data to determine what the probability is someone would change their mind from no to yes given a random discount
 * Creates a logistic regression, KNN, naive bayes, decision tree, and neural network
 
-# [Project 3: Tableau Visualizations / Public Profile (Tableau)[https://public.tableau.com/app/profile/trevor.volpe]
+# [Project 3: Tableau Visualizations / Public Profile (Tableau)](https://public.tableau.com/app/profile/trevor.volpe)
 * Contains a handful of visualizations created through MIS 561 coursework
